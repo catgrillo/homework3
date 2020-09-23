@@ -109,7 +109,8 @@ footer{
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
-  position: absolute;
+  position: fixed;
   bottom: 0px;
+  left: 0px;
 }
 
