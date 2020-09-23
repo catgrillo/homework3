@@ -41,7 +41,7 @@ p{
 
 a{
   font-size: 16px;
-/*   color: #B92751;  pick one of the other 2 colors */
+  color: #C12258; 
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
@@ -70,6 +70,7 @@ table{
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
+  vertical-align: middle;
 }
 
 td{
