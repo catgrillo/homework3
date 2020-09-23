@@ -86,7 +86,7 @@ tr:nth-child(even){
 
 tr:hover{
   background-color: rgba(126, 8, 32,.25);
-  transition: 1s;
+/*   transition: 1s; */
 }
 
 thead tr:first-child th:first-child{
